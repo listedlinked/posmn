@@ -1,0 +1,9 @@
+Building Carebit
+
+See doc/readme-qt.rst for instructions on building Carebit QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Carebit.
+
+See doc/build-*.txt for instructions on building Carebitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Carebit.
